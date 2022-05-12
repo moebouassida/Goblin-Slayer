@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VulnUI
+  - HelpUI
+  - Monster
+  - PlayerSpawn
+  - GameOverUI
+  - Door
+  - Instru
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: base
+    uniqueID: 1249588137
+    locked: 0
+  - name: background
+    uniqueID: 3452989043
+    locked: 0
+  - name: door
+    uniqueID: 761874463
+    locked: 0
+  - name: player
+    uniqueID: 1779138877
+    locked: 0
